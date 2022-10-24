@@ -39,14 +39,14 @@ blockquote:before {
   background: none;
   height: 75px;
   min-width: 55px;
-  color: #000;
+  color: #231f20;
   font-family: 'Lurk A', 'a_BosaNova', sans-serif;
   font-size: 40px;
   padding-top: 0;
   margin-left: 30px;
 }
 .slide.rbn::after {
-  background: #57bfee;
+  background: #fff200;
 }
 .slide::before {
   position: absolute;
@@ -107,7 +107,7 @@ blockquote:before {
   color: #999;
 }
 .progress:before {
-  background: #4193d4;
+  background: #fff200;
 }
 .tag {
   color: #ad1531;
@@ -147,9 +147,9 @@ blockquote:before {
 }
 .slide.label-header h2 {
   display: inline-block;
-  background-color: #a43d36;
-  color: #fff;
+  background-color: #ed4344;
   padding: 10px 15px 5px;
+  color: #fff;
   font-family: 'Lurk A', 'a_BosaNova', sans-serif;
   font-size: 44px;
   letter-spacing: 1px;
